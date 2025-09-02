@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sHR4XDrz420=",
+  "dgSpecHash": "0iWOAMMuGTc=",
   "success": true,
   "projectFilePath": "/home/alunime/Documentos/desafio-1/backend/src/Hypesoft.Application/Hypesoft.Application.csproj",
   "expectedPackageFiles": [
@@ -25,21 +25,25 @@
     {
       "code": "NU1608",
       "level": "Warning",
+      "message": "Versão detectada do pacote fora da restrição de dependência: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requer AutoMapper (= 12.0.1), mas a versão AutoMapper 15.0.1 foi resolvida.",
+      "projectPath": "/home/alunime/Documentos/desafio-1/backend/src/Hypesoft.Application/Hypesoft.Application.csproj",
       "warningLevel": 1,
-      "message": "Versão detectada do pacote fora da restrição de dependência: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requer MediatR (>= 11.0.0 && < 12.0.0), mas a versão MediatR 13.0.0 foi resolvida.",
-      "libraryId": "MediatR",
+      "filePath": "/home/alunime/Documentos/desafio-1/backend/src/Hypesoft.Application/Hypesoft.Application.csproj",
+      "libraryId": "AutoMapper",
       "targetGraphs": [
-        "net8.0"
+        "net9.0"
       ]
     },
     {
       "code": "NU1608",
       "level": "Warning",
+      "message": "Versão detectada do pacote fora da restrição de dependência: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requer MediatR (>= 11.0.0 && < 12.0.0), mas a versão MediatR 13.0.0 foi resolvida.",
+      "projectPath": "/home/alunime/Documentos/desafio-1/backend/src/Hypesoft.Application/Hypesoft.Application.csproj",
       "warningLevel": 1,
-      "message": "Versão detectada do pacote fora da restrição de dependência: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requer AutoMapper (= 12.0.1), mas a versão AutoMapper 15.0.1 foi resolvida.",
-      "libraryId": "AutoMapper",
+      "filePath": "/home/alunime/Documentos/desafio-1/backend/src/Hypesoft.Application/Hypesoft.Application.csproj",
+      "libraryId": "MediatR",
       "targetGraphs": [
-        "net8.0"
+        "net9.0"
       ]
     }
   ]
